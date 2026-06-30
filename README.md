@@ -33,15 +33,3 @@ In addition to professional simulations, this repository contains the foundation
 *   **Data Storytelling:** Microsoft PowerPoint (Executive Summaries, C-Suite Reporting)
 *   **Methodologies:** Data Cleaning/Wrangling, ETL Processes, Cohort Analysis, Descriptive Statistics
 
----
-
-## Repository Structure
-
-```text
-├── Professional-Simulations/
-│   ├── Excel-VBA-Automation/     # Automated workbooks and macro scripts
-│   ├── Power-BI-Dashboards/     # .pbix files and interactive layout designs
-│   └── Executive-Presentations/  # Slide decks and business summaries
-└── Personal-Projects/
-    ├── Exploratory-Analysis/    # Niche data studies and deep-dives
-    └── Foundation-Archive/      # Early portfolio-building projects
